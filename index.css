@@ -1,0 +1,74 @@
+h2{
+  color:white;
+}
+body{
+  background: url(images.jpg);
+  text-align: center;
+  color:white;
+  z-index: -20;
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+}
+
+form{
+  background-color:rgba(27, 27, 50, 0.8);
+  width: 50%;
+  height:100%;
+  text-align: left;
+  position:relative;
+  left:25%;
+  z-index: 20;
+  padding:5px;
+  opacity:0.9;
+}
+div{
+margin: 10px;
+font-weight: bold;
+font-size: 1.5rem;
+}
+input{
+  width:99%;
+padding: 5px;
+  border-radius: 5px;
+  position:relative;
+text-align: left;
+
+}
+select{
+  width:100%;
+  padding: 5px;
+  border-radius: 5px;
+  position:relative;
+
+
+}
+.radio{
+  position: relative;
+  right: 30%;
+  bottom: 25px;
+}
+button{
+  background-color: #37af65;
+  width:99%;
+  padding: 5px;
+  border-radius: 5px;
+  position:relative;
+  color:white;
+
+}
+.radiocheck{
+padding: 0px;
+  position: relative;
+top:30px;
+right:15%;
+}
+.ital{
+  font-family: "open sans condensed",sans-serif;
+  font-size: 1rem;
+}
+p{
+  font-size: 1rem;
+}
+textarea{
+  width: 100%;
+}
